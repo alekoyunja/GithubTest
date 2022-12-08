@@ -1,0 +1,2 @@
+VASLIK
+ilk yazılı kısmı ve python
