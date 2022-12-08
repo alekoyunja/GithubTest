@@ -1,2 +1,4 @@
 VASLIK
 ilk yazılı kısmı ve python
+
+ikinic bolum kendımden bahsedıyorum
