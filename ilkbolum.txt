@@ -4,3 +4,5 @@ ilk yazılı kısmı ve python
 ikinic bolum kendımden bahsedıyorum
 
 Bugun branchlerı ogrenıyoruz
+
+artık son commut bu olacak
