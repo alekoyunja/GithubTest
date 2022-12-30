@@ -1,3 +1,7 @@
 deneysel yazılar yazacagız
 
 ikinci deneysel satırımızı yazdık...
+
+Bu github acıldıktan sonrakı ılk degısıklık.
+
+Yenı commit.
