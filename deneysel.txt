@@ -5,3 +5,5 @@ ikinci deneysel satırımızı yazdık...
 Bu github acıldıktan sonrakı ılk degısıklık.
 
 Yenı commit.
+
+Pull komutundan sonra neler olacak bakalım!!!
